@@ -30,3 +30,6 @@ group :test do
   gem "simplecov", require: false
   gem "simplecov-cobertura", require: false
 end
+
+# for French lang
+gem "devise-i18n"
